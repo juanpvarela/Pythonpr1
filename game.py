@@ -41,7 +41,7 @@ for i in range(0, times):
 
    # resultado = float(result)
 
-    if result == int(resultado2) :
+    if result*10 == int(resultado2*10) :
         k=k+1
         print("el resultado es correcto")
     else:
