@@ -1,3 +1,3 @@
 Nombre: Juan Pablo Varela
 
-Nro de alumno: 08313/0
+Nro de alumno: 08313/0 (observatorio)
